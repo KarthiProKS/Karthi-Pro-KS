@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@700&display=swap');
+body{background-color: aqua;
+    font-family: 'Qwitcher Grypen', cursive;
+     text-align:center;
+     text-shadow: 23px;
+    }
+    #border{ margin-left: 500px;
+        border: 10px solid black;
+        height: 600px; 
+        border-radius: 20px; width: 500px;
+          background: chartreuse; }
